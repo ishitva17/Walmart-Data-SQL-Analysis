@@ -59,3 +59,5 @@ The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. 
 12. Which time of the day do customers give most ratings per branch?
 13. Which day fo the week has the best avg ratings?
 14. Which day of the week has the best average ratings per branch?
+
+[Link to Solution File](https://github.com/ishitva17/Walmart-Data-SQL-Analysis/blob/main/Walmart%20Data%20Business%20question%20solutions.sql)
